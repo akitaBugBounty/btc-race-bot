@@ -1,8 +1,8 @@
 # bot-race-1 — cbBTC 24h race bot
 
-![make.fun](https://make.fun/badge/btc-race-24h-20261115-0828.svg)
-![rank](https://make.fun/badge/btc-race-24h-20261115-0828/akitaBugBounty/btc-race-bot/rank.svg)
-![reward](https://make.fun/badge/btc-race-24h-20261115-0828/reward.svg)
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/akitaBugBounty/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/akitaBugBounty/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
 
 A selective long-only bot for make.fun's [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261115-0828) bounty ($250 in USDC).
 
